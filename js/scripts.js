@@ -147,13 +147,14 @@
     // -------------------------------------------------------------
 
     (function () {
-        $('li a[href*=#]').bind("click", function(e){
+        $('.st-link>a[href*=#]').bind("click", function(e){
             var anchor = $(this);
             $('html, body').stop().animate({
-                scrollTop: $(anchor.attr('href')).offset().top -79
-            }, 1000);
+                scrollTop: $(anchor.attr('href')).offset().top -30
+            }, 1000)
             e.preventDefault();
         });
+
     }());
 
 
