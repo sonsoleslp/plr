@@ -31,7 +31,7 @@
                     <li class="st-link"><a href="#header"><?php $translate->__('NAV_INICIO'); ?> </a></li>
                     <li class="st-link"><a href="#about"><?php $translate->__('NAV_CV'); ?></a></li>
                     <li class="st-link dropdown">
-                        <a href="/index.php#services" style=" display: inline-block;   margin-right: -14px;"><?php $translate->__('NAV_SERVICIOS'); ?></a>
+                        <a href="#services" style=" display: inline-block;   margin-right: -14px;"><?php $translate->__('NAV_SERVICIOS'); ?></a>
                         <a href="#"  style="display:inline-block;" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false"><span class="caret"></span></a>
                         <ul class="dropdown-menu">
                             <li class="st-link"><a href="#our-works"><?php $translate->__('NAV_ARQ'); ?></a></li>

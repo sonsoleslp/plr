@@ -1,0 +1,6 @@
+//Web
+http://www.pedrolopezruiperez.tk
+
+//Dashboard para propietario
+http://www.pedrolopezruiperez.tk/login.php 
+(admin,admin)

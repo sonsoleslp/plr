@@ -223,8 +223,10 @@ $mainsection=true;
 						<ul class="filter">  			
 							<li class="wow slideInUp" ><a class="active" href="#" data-filter="*"><?php $translate->__('ARQ_CAT_1'); ?></a></li>
 							<li class="wow slideInUp" ><a href="#" data-filter=".uni"><?php $translate->__('ARQ_CAT_2'); ?></a></li>
+							<li class="wow slideInUp" ><a href="#" data-filter=".plu"><?php $translate->__('ARQ_CAT_9'); ?></a></li>
 							<li class="wow slideInUp" ><a href="#" data-filter=".rel"><?php $translate->__('ARQ_CAT_3'); ?></a></li>
 							<li class="wow slideInUp" ><a href="#" data-filter=".dep"><?php $translate->__('ARQ_CAT_4'); ?></a></li>
+							<li class="wow slideInUp" ><a href="#" data-filter=".doc"><?php $translate->__('ARQ_CAT_8'); ?></a></li>
 							<li class="wow slideInUp" ><a href="#" data-filter=".ofi"><?php $translate->__('ARQ_CAT_5'); ?></a></li>
 							<li class="wow slideInUp" ><a href="#" data-filter=".ind"><?php $translate->__('ARQ_CAT_6'); ?></a></li>
 							<li class="wow slideInUp" ><a href="#" data-filter=".cul"><?php $translate->__('ARQ_CAT_7'); ?></a></li>
@@ -320,6 +322,15 @@ $mainsection=true;
 								</div>
 							</div>
 						</div>
+						<div class="col-md-4 col-sm-6 work-grid ofi">
+							<div class="portfolio-content text-center">
+								<img class="wow zoomIn img-responsive" src="images/works/portfolio-29.jpg" alt="">
+								<div class="portfolio-overlay">
+									<a href="images/works/portfolio-29.jpg"><i class="fa fa-search-plus"></i></a>
+									<h5>ANFACO</h5>
+								</div>
+							</div>
+						</div>
 						<div class="col-md-4 col-sm-6 work-grid rel">
 							<div class="portfolio-content text-center">
 								<img class="wow zoomIn img-responsive" src="images/works/portfolio-14.jpg" alt="">
@@ -405,6 +416,78 @@ $mainsection=true;
 						</div>
 						<div class="col-md-4 col-sm-6 work-grid uni">
 							<div class="portfolio-content text-center">
+								<img class="wow zoomIn img-responsive" src="images/works/portfolio-28.jpg" alt="">
+								<div class="portfolio-overlay">
+									<a href="images/works/portfolio-28.jpg"><i class="fa fa-search-plus"></i></a>
+									<h5>Particular</h5>
+								</div>
+							</div>
+						</div>
+						<div class="col-md-4 col-sm-6 work-grid plu">
+							<div class="portfolio-content text-center">
+								<img class="wow zoomIn img-responsive" src="images/works/portfolio-30.jpg" alt="">
+								<div class="portfolio-overlay">
+									<a href="images/works/portfolio-30.jpg"><i class="fa fa-search-plus"></i></a>
+									<h5>Edificio de viviendas</h5>
+								</div>
+							</div>
+						</div>
+						<div class="col-md-4 col-sm-6 work-grid uni plu">
+							<div class="portfolio-content text-center">
+								<img class="wow zoomIn img-responsive" src="images/works/portfolio-31.jpg" alt="">
+								<div class="portfolio-overlay">
+									<a href="images/works/portfolio-31.jpg"><i class="fa fa-search-plus"></i></a>
+									<h5>Edificio de viviendas</h5>
+								</div>
+							</div>
+						</div>
+						<div class="col-md-4 col-sm-6 work-grid plu">
+							<div class="portfolio-content text-center">
+								<img class="wow zoomIn img-responsive" src="images/works/portfolio-32.jpg" alt="">
+								<div class="portfolio-overlay">
+									<a href="images/works/portfolio-32.jpg"><i class="fa fa-search-plus"></i></a>
+									<h5>Edificio de viviendas</h5>
+								</div>
+							</div>
+						</div>
+						<div class="col-md-4 col-sm-6 work-grid plu">
+							<div class="portfolio-content text-center">
+								<img class="wow zoomIn img-responsive" src="images/works/portfolio-33.jpg" alt="">
+								<div class="portfolio-overlay">
+									<a href="images/works/portfolio-33.jpg"><i class="fa fa-search-plus"></i></a>
+									<h5>Edificio de viviendas</h5>
+								</div>
+							</div>
+						</div>
+						<div class="col-md-4 col-sm-6 work-grid plu">
+							<div class="portfolio-content text-center">
+								<img class="wow zoomIn img-responsive" src="images/works/portfolio-34.jpg" alt="">
+								<div class="portfolio-overlay">
+									<a href="images/works/portfolio-34.jpg"><i class="fa fa-search-plus"></i></a>
+									<h5>Edificio de viviendas</h5>
+								</div>
+							</div>
+						</div>
+						<div class="col-md-4 col-sm-6 work-grid doc">
+							<div class="portfolio-content text-center">
+								<img class="wow zoomIn img-responsive" src="images/works/portfolio-35.jpg" alt="">
+								<div class="portfolio-overlay">
+									<a href="images/works/portfolio-35.jpg"><i class="fa fa-search-plus"></i></a>
+									<h5>Escuela de enfermería POVISA</h5>
+								</div>
+							</div>
+						</div>
+						<div class="col-md-4 col-sm-6 work-grid doc">
+							<div class="portfolio-content text-center">
+								<img class="wow zoomIn img-responsive" src="images/works/portfolio-36.jpg" alt="">
+								<div class="portfolio-overlay">
+									<a href="images/works/portfolio-36.jpg"><i class="fa fa-search-plus"></i></a>
+									<h5>Guardería</h5>
+								</div>
+							</div>
+						</div>
+						<div class="col-md-4 col-sm-6 work-grid uni">
+							<div class="portfolio-content text-center">
 								<img class="wow zoomIn img-responsive" src="images/works/portfolio-21.jpg" alt="">
 								<div class="portfolio-overlay">
 									<a href="images/works/portfolio-21.jpg"><i class="fa fa-search-plus"></i></a>
@@ -462,6 +545,15 @@ $mainsection=true;
 								<img class="wow zoomIn img-responsive" src="images/works/portfolio-26.jpg" alt="">
 								<div class="portfolio-overlay">
 									<a href="images/works/portfolio-26.jpg"><i class="fa fa-search-plus"></i></a>
+									<h5>Particular</h5>
+								</div>
+							</div>
+						</div>
+						<div class="col-md-4 col-sm-6 work-grid uni">
+							<div class="portfolio-content text-center">
+								<img class="wow zoomIn img-responsive" src="images/works/portfolio-27.jpg" alt="">
+								<div class="portfolio-overlay">
+									<a href="images/works/portfolio-27.jpg"><i class="fa fa-search-plus"></i></a>
 									<h5>Particular</h5>
 								</div>
 							</div>
