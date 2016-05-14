@@ -176,32 +176,36 @@ $mainsection=true;
 				</div>
 
 				<div class="wow st-link slideInUp col-lg-4  col-xs-12 col-sm-6 st-service  text-center">
-					<a href="#our-works"><img class="iconlink" style="max-height:130px;" src="images/svg/2heights.svg"></a><br><br>
+					<a href="#our-works"><img class="iconlink" style="height:100px;" src="images/svg/2heights.svg"></a><br><br>
 					<h2><?php $translate->__('SERV_TITLE_1'); ?></h2>
 					<p><?php $translate->__('SERV_CONTENT_1'); ?></p>
 				</div>
+				<div class="wow st-link slideInUp col-lg-4  col-xs-12 col-sm-6 st-service  text-center">
+					<a href="#estructuras"><img class="iconlink" style="height:100px;" src="images/svg/building.svg"></a><br><br>
+					<h2><?php $translate->__('SERV_TITLE_2'); ?></h2>
+					<p><?php $translate->__('SERV_CONTENT_2'); ?></p>
+				</div>
+				  <div class="clearfix visible-sm"></div><div class="clearfix visible-md"></div>
 
 				<div class="wow st-link slideInUp col-lg-4  col-xs-12 col-sm-6 st-service  text-center">
-					<a href="#estructuras"><img class="iconlink" style="max-height:130px;" src="images/svg/building.svg"></a><br><br>
-					<h2><?php $translate->__('SERV_TITLE_2'); ?></h2>
-					<p><?php $translate->__('SERV_CONTENT_2'); ?></p>				</div>
-				<div class="wow st-link slideInUp col-lg-4  col-xs-12 col-sm-6 st-service  text-center">
-					<a href="#pm"><img class="iconlink" style="max-height:130px;" src="images/svg/proj.svg"></a><br><br>
+					<a href="#pm"><img class="iconlink" style=" height:100px;" src="images/svg/proj.svg"></a><br><br>
 					<h2><?php $translate->__('SERV_TITLE_3'); ?></h2>
 					<p><?php $translate->__('SERV_CONTENT_3'); ?></p>
 				</div>
+				 <div class="clearfix visible-lg"></div>
 				<div class="wow st-link slideInUp col-lg-4  col-xs-12 col-sm-6 st-service  text-center">
-					<a href="#otros"><img class="iconlink" style="max-height:130px;" src="images/svg/paper.svg"></a><br><br>
+					<a href="#otros"><img class="iconlink" style="height:100px;" src="images/svg/paper.svg"></a><br><br>
 					<h2><?php $translate->__('SERV_TITLE_4'); ?></h2>
 					<p><?php $translate->__('SERV_CONTENT_4'); ?></p>
 				</div>
+				  <div style="height:auto;" class="clearfix visible-sm"></div> <div style="height:auto;" class="clearfix visible-md"></div>
 				<div class="wow st-link slideInUp col-lg-4  col-xs-12 col-sm-6 st-service  text-center">
-					<a href="#otros"><img class="iconlink " style="max-height:130px;" src="images/svg/factory.svg"></a><br><br>
+					<a href="#otros"><img class="iconlink " style=" height:100px;" src="images/svg/factory.svg"></a><br><br>
 					<h2><?php $translate->__('SERV_TITLE_5'); ?></h2>
 					<p><?php $translate->__('SERV_CONTENT_5'); ?></p>
 				</div>
 				<div class="wow st-link slideInUp col-lg-4  col-xs-12 col-sm-6 st-service  text-center">
-					<a href="#otros"><img class="iconlink" style="max-height:130px;" src="images/svg/suitcase.svg"></a><br><br>
+						<a href="#otros"><img class="iconlink" style="height:100px;" src="images/svg/suitcase.svg"></a><br><br>
 					<h2><?php $translate->__('SERV_TITLE_6'); ?></h2>
 					<p><?php $translate->__('SERV_CONTENT_6'); ?></p>
 				</div>
@@ -432,7 +436,7 @@ $mainsection=true;
 								</div>
 							</div>
 						</div>
-						<div class="col-md-4 col-sm-6 work-grid uni plu">
+						<div class="col-md-4 col-sm-6 work-grid plu plu">
 							<div class="portfolio-content text-center">
 								<img class="wow zoomIn img-responsive" src="images/works/portfolio-31.jpg" alt="">
 								<div class="portfolio-overlay">
